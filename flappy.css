@@ -1,0 +1,9 @@
+body{
+    font-family: "Protest Guerrilla";
+    font-weight: bold;
+    text-align: center;
+}
+
+#board{
+    background: url("flappybirdbg.png");
+}
